@@ -22,3 +22,7 @@ GlassBox Simulator is an interactive web-based tool that visualizes how search a
 - VS Code
 
 ## ▶️ How to Run
+https://youtu.be/Op5t5Fc3T8A?si=jVKCx_k1spjyNdbv
+
+## MVP Link
+https://glass-box-simulator-1--nehamittal56.replit.app/
