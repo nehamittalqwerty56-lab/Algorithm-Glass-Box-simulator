@@ -5,12 +5,11 @@ Traditional algorithm learning treats algorithms as black boxes, making it diffi
 
 ## 💡 Solution
 GlassBox Simulator is an interactive web-based tool that visualizes how search algorithms like BFS, DFS, and A* explore a grid step-by-step, making algorithm logic transparent and easy to understand.
-
-## 🚀 Features
-- Visual comparison of BFS, DFS, and A*
-- Step-by-step traversal animation
-- Adjustable speed control
-- Beginner-friendly UI
+## 🚀 Key Features
+- Step-by-step visualization of BFS, DFS, and A* algorithms
+- Interactive grid-based simulation
+- Adjustable execution speed
+- Beginner-friendly interface for learning algorithms
 
 ## 🧠 Algorithms Used
 - Breadth First Search (BFS)
